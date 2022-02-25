@@ -1,0 +1,7 @@
+name = "swift"
+description = "A clean theme for Hugo."
+author = "foreverfaint"
+license = "MIT"
+source_repo = "https://github.com/foreverfaint/hugo-theme-swift"
+tags = ["blog", "personal", "minimal"]
+min_version = 0.1
